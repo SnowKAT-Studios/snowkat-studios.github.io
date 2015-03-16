@@ -1,2 +1,2 @@
-# snowcat-studios.github.io
-Snowcat Studios' Official Site (Still a work in progress)
+# snowkat-studios.github.io
+Snowkat Studios' Official Site (Still a work in progress)
